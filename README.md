@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently learning **Node.js , php.**
 
-- 👨‍💻 All of my projects are available at [https://meetmadani205.github.io/Meet](https://meetmadani205.github.io/Meet)
+- 👨‍💻 All of my projects are available at[https://meetmadani205.github.io/Meet-Madani-s-portfolio/]
+(https://meetmadani205.github.io/Meet-Madani-s-portfolio/)
 
 - 💬 Ask me about **C , java ,Html , css and JavaScript**
 
