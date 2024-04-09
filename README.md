@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/meet_madani3404" target="blank"><img src="https://img.shields.io/twitter/follow/meet_madani3404?logo=twitter&style=for-the-badge" alt="meet_madani3404" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js , php.**
+- 🌱 I’m currently learning **Backend web technologies**
 
 - 👨‍💻 All of my projects are available at
 - [https://meetmadani205.github.io/Meet-Madani-s-portfolio/]
