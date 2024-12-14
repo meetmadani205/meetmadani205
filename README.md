@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meet Madani</h1>
-<h3 align="center">I passionate in frontend web devlopemnt and completed 3 projects on it.</h3>
+<h3 align="center">I passionate in  web devlopemnt and making various projects on it</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meetmadani205&label=Profile%20views&color=0e75b6&style=flat" alt="meetmadani205" /> </p>
 
